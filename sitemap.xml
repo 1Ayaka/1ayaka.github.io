@@ -126,14 +126,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E8%8B%B1%E8%AF%AD%E7%AC%94%E8%AE%B0/</loc>
+    <loc>http://example.com/tags/%E5%A4%8D%E7%8E%B0/</loc>
     <lastmod>2024-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E5%A4%8D%E7%8E%B0/</loc>
+    <loc>http://example.com/tags/%E8%8B%B1%E8%AF%AD%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2024-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
